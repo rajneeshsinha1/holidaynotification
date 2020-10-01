@@ -1,0 +1,4 @@
+{
+    "sendTo":"rajneeshsinha81094@gmail.com,rajneesh123srm@gmail.com",
+    "subject":"Holiday Notification"
+}

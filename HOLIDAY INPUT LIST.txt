@@ -1,0 +1,84 @@
+{
+"month":"JANUARY",
+"date":"01-01-2020",
+"day":"FRIDAY",
+"occasion":"NEW YEAR"
+}
+{
+"month":"JANUARY",
+"date":"15-01-2020",
+"day":"WEDNESDAY",
+"occasion":"MAKARA SANKARANTI"
+}
+{
+"month":"JANUARY",
+"date":"26-01-2020",
+"day":"SUNDAY",
+"occasion":"REPUBLIC DAY"
+}
+{
+"month":"FEBRUARY",
+"date":"21-02-2020",
+"day":"FRIDAY",
+"occasion":"MAHA SHIVARATRI"
+}
+{
+"month":"MARCH",
+"date":"25-03-2020",
+"day":"WEDNESDAY",
+"occasion":"UGADI"
+}
+{
+"month":"APRIL",
+"date":"10-04-2020",
+"day":"FRIDAY",
+"occasion":"GOOD FRIDAY"
+}
+{
+"month":"MAY",
+"date":"01-05-2020",
+"day":"FRIDAY",
+"occasion":"MAY DAY"
+}
+{
+"month":"MAY",
+"date":"25-01-2020",
+"day":"MONDAY",
+"occasion":"KUTUB-A-RAMZAN"
+}
+{
+"month":"AUGUST",
+"date":"15-08-2020",
+"day":"SATURDAY",
+"occasion":"INDEPENDENCE DAY"
+}
+{
+"month":"OCTOBER",
+"date":"02-10-2020",
+"day":"FRIDAY",
+"occasion":"GANDHI JAYANTI"
+}
+{
+"month":"OCTOBER",
+"date":"26-10-2020",
+"day":"MONDAY",
+"occasion":"VIJAYA DASHAMI"
+}
+{
+"month":"NOVEMBER",
+"date":"01-11-2020",
+"day":"SUNDAY",
+"occasion":"KANNADA RAJYOTSAVA"
+}
+{
+"month":"JANUARY",
+"date":"16-11-2020",
+"day":"MONDAY",
+"occasion":"DEEPAVALI"
+}
+{
+"month":"DECEMBER",
+"date":"25-12-2020",
+"day":"FRIDAY",
+"occasion":"CHRISTMAS"
+}
